@@ -2,8 +2,6 @@
 
 In this project, I learned about importing and using functions and creating modules in Python. I further practiced using the builtin function `dir()` and using command line arguments within Python programs.
 
-### Author: Martins Akhivbareme
-
 ## Tasks :page_with_curl:
 
 - **0. Import a simple function from a simple file**
